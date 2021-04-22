@@ -10,3 +10,42 @@ background-color: rgba(180, 101, 71, 1.000);
 color:rgba(180, 101, 71, 1.000);
 height:2px;
 }
+.slogan{
+   
+    transform:scale(0.83);
+    top: -80px;
+    margin-top: -200;
+    position: relative;
+}
+.slogan h1 {
+    font-family: "HeadlineNEWS";
+    font-weight: 600;
+    font-size: 100px !important;
+    letter-spacing: 2px !important;
+    transform: scaleX(0.9);
+    position: relative;
+    margin-left: 10px;
+  }
+  .slogan h1.slogan1 {
+    top: 232px;
+    left: 338px;
+  }
+  .slogan h1.slogan2 {
+    top: 220px;
+    left: 479px;
+  }
+  .slogan h1.slogan3 {
+    top: 206px;
+    left: 225px;
+  }
+  .slogan h1.slogan4 {
+    top: 194px;
+    left: 420px;
+  }
+  .slogan p.subslogan {
+    position: relative;
+    font-size: 45px !important;
+    top: 197px;
+    left: 340px;
+    transform: scaleX(1.07);
+  }
